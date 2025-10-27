@@ -23,7 +23,7 @@ A full-stack skincare e-commerce web application with product listings, cart, or
 
 1\. Clone the repository
 
-git clone https://github.com/Varsha031m10/-AntherSkin.git
+git clone (https://github.com/Tanujanh123/antherskin11-yt.git)
 
 
 
